@@ -15,9 +15,7 @@ A footbal manager API
 
 ## Getting Started
 
-Getting started with this project is very simple, all you need is to have git installed on your machine. Then open up your terminal and run this command `git clone https://github.com/Mbbluestalker/football-manager-api.git` to clone the project repository.
-
-Change directory into the project folder `cd football-manager-api` and create a virtual environment
+- create a virtual environment
 
 Run "pip install -r requirements.txt" to install dependencies
 
@@ -29,6 +27,6 @@ Run "Python manage.py runserver"
 
 Check the urls.py file for list of endpoints
 
-A swagger documentation of this project will be available soon 
+
 
 Thanks.
